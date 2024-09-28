@@ -38,3 +38,13 @@ console.log(lengths);
 
 const firstLetter = friends.map(char => char[0]);
 console.log(firstLetter);
+
+
+
+// forEach: map er moto same kaje kore tobe result return kore na
+
+const friends1 = ['Laptop', 'Book', 'Quran'];
+
+const result1 = friends1.forEach(char => char.length);
+console.log(result1);
+
