@@ -1,4 +1,6 @@
 
+// make an array with senior 
+
 
 const instructor = [
     {name: 'Nodi', age: 28, position: 'Senior'},
